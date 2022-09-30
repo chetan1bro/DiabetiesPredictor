@@ -3,7 +3,7 @@ argh==0.26.2
 atomicwrites==1.4.0
 brotlipy==0.7.0
 cycler==0.10.0
-Flask==1.1.2
+Flask==2.2.2  
 itsdangerous==1.1.0
 joblib==1.0.1
 json5==0.9.5
